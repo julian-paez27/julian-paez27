@@ -23,7 +23,7 @@ Soy un apasionado por construir productos tecnológicos que resuelven problemas 
 
 ## 📫 Contacto
 
-- **[LinkedIn](https://www.linkedin.com/in/julian-arley-paez-silva-b47a57396/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxF0d1eyFTD%2B4NVmI4ML15g%3D%3D)**
+- **LinkedIn:** [Julian Paez](https://www.linkedin.com/in/julian-arley-paez-silva-b47a57396/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxF0d1eyFTD%2B4NVmI4ML15g%3D%3D)**
 - **Web:** [europhonelectronica.info/](https://europhonelectronica.info/)
 - **Email:** paezjulian14@gmail.com
 
