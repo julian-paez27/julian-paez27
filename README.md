@@ -17,7 +17,7 @@ Soy un apasionado por construir productos tecnológicos que resuelven problemas 
 
 - **[PRAHVI](https://europhonelectronica.info/):** App Fintech para validación de pagos QR en tiempo real.
 - **[Plataforma EdTech:](https://europhonelectronica.info/inglesya/calendar.php)** Sistema de videollamadas para tutorías flash de 15 minutos.
-- **Estación Meteorológica IoT:** Sistema de monitoreo ambiental basado en Raspberry Pi 4.
+- **[Estación Meteorológica IoT:](https://github.com/julian-paez27/IoT-Documentacion.git)** Sistema de monitoreo ambiental basado en Raspberry Pi 4.
 
 ---
 
