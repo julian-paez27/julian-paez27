@@ -16,14 +16,14 @@ Soy un apasionado por construir productos tecnológicos que resuelven problemas 
 ## 🚀 Proyectos Destacados
 
 - **[PRAHVI](https://europhonelectronica.info/):** App Fintech para validación de pagos QR en tiempo real.
+- **[Plataforma EdTech:](https://europhonelectronica.info/inglesya/calendar.php)** Sistema de videollamadas para tutorías flash de 15 minutos.
 - **Estación Meteorológica IoT:** Sistema de monitoreo ambiental basado en Raspberry Pi 4.
-- **Plataforma EdTech:** Sistema de videollamadas para tutorías flash de 15 minutos.
 
 ---
 
 ## 📫 Contacto
 
-- **LinkedIn:** [Julian Paez](https://www.linkedin.com/in/julian-arley-paez-silva-b47a57396/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxF0d1eyFTD%2B4NVmI4ML15g%3D%3D)**
+- **LinkedIn:** [Julian Paez](https://www.linkedin.com/in/julian-arley-paez-silva-b47a57396/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxF0d1eyFTD%2B4NVmI4ML15g%3D%3D)
 - **Web:** [europhonelectronica.info/](https://europhonelectronica.info/)
 - **Email:** paezjulian14@gmail.com
 
